@@ -1,2 +1,2 @@
 # mystorehouse
-none
+可以用中文吗
